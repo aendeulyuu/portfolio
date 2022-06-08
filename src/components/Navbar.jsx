@@ -13,7 +13,7 @@ const Navbar = () => {
   return (
     <div className="fixed w-full h-[80px] flex justify-between items-center px-4 bg-[#0a192f] text-gray-300">
       <div>
-        <a href="/">
+        <a href=".">
           <p className="text-4xl font-bold tracking-widest text-pink-600 italic">
             AM
           </p>
